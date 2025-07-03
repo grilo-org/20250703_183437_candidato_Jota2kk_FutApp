@@ -34,3 +34,4 @@ TypeScript
 
 Aviso
 Se a API retornar 0 jogos ou estatísticas incompletas, é provável que os dados para o time/temporada/liga ainda não estejam disponíveis na API — isso não é um erro do app.
+# SonarCloud configured
